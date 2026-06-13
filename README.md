@@ -1,10 +1,10 @@
-# SOC 2 Evidence SQL Pack — Free Sample (10 Queries)
+# SOC 2 Evidence SQL Pack - Free Sample (10 Queries)
 
 *by ControlSmith Tools · audit evidence, ready to run.*
 
 This folder contains 10 free Postgres queries from the full **SOC 2 Evidence SQL Pack**.
 
-The full pack contains **240 parameterised queries** — 60 queries across 9 control themes, ported to four dialects: **Postgres, Snowflake, BigQuery, and Microsoft SQL Server**. This free sampler ships the Postgres version of 10 representative queries so you can evaluate the style and depth before purchasing.
+The full pack contains **240 parameterised queries** - 60 queries across 9 control themes, ported to four dialects: **Postgres, Snowflake, BigQuery, and Microsoft SQL Server**. This free sampler ships the Postgres version of 10 representative queries so you can evaluate the style and depth before purchasing.
 
 ---
 
@@ -55,7 +55,7 @@ sample/
 
 ### For CATALOG queries
 
-No adaptation needed — run directly against your Postgres instance with an appropriate role.
+No adaptation needed - run directly against your Postgres instance with an appropriate role.
 
 ---
 
@@ -63,7 +63,7 @@ No adaptation needed — run directly against your Postgres instance with an app
 
 The paid pack adds:
 
-- **230 additional queries** — the remaining 50 Postgres queries plus full ports to Snowflake (60), BigQuery (60), and Microsoft SQL Server T-SQL (60)
+- **230 additional queries** - the remaining 50 Postgres queries plus full ports to Snowflake (60), BigQuery (60), and Microsoft SQL Server T-SQL (60)
 - **Evidence Register** spreadsheet with query index, owner tracking, and review sign-off
 - **Control Map** linking every query to SOC 2 TSC criteria
 - **Schema Adaptation Guide** with parameter syntax for each dialect, common adaptation patterns, and troubleshooting
@@ -73,7 +73,7 @@ The paid pack adds:
 - Per-dialect READMEs covering region handling (BigQuery), latency caveats (Snowflake), and edition differences (SQL Server / Azure SQL DB / Managed Instance)
 - Single-user commercial licence
 
-**→ Get the full pack — link in this repository's description.**
+**→ Get the full pack - link in this repository's description.**
 
 ---
 
